@@ -8,7 +8,7 @@ Welcome to **Cora Coin**, a groundbreaking initiative by Rsymo, Inc., led by Fou
 - **Impact:** Targets 5,000 daily verifiers by Q4 2025, verifying 1M+ claims yearly to reduce disinformation by 15–20%, aligned with UN SDGs 16 and 9.
 
 ## Get Involved
-- **Download Whitepaper:** [Cora Coin Whitepaper v1.0](https://github.com/erikerling/rsymo-cora-whitepaper/releases/download/v1.0/Cora_Coin_Whitepaper_v1.0.pdf) – Details our vision, tech, and roadmap. (Adjust link with your username.)
+- **Download Whitepaper:** [Cora Coin Whitepaper v1.0](https://github.com/Aphexflip/rsymo-cora-whitepaper) – Details our vision, tech, and roadmap. (Adjust link with your username.)
 - **Join Beta:** Test on Cardona Testnet via [Chainlink Faucet](https://faucets.chain.link/polygon) and [PolygonScan](https://polygonscan.com/).
 - **Invest or Fund:** Seeking $500K–$2M for MVP/expansion. Contact [erik@rsymo.inc] for pitch deck and demo.
 - **Contribute:** Open-source project—submit ideas or code via the [Issues tab](https://github.com/erikerling/rsymo-cora-whitepaper/issues).
